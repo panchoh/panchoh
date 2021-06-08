@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![panchoh’s github stats](https://github-readme-stats.vercel.app/api?username=panchoh&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/panchoh)
+[![panchoh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=panchoh&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/panchoh)
