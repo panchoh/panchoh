@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# CAVEAT EMPTOR: these stats seem flawed
+I think that they include (huge) repos that I forked, such as nixpkgs/nixpkgs.
+There is no way that I have made 45k commits :-)
 
 [![panchoh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=panchoh&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/panchoh)
